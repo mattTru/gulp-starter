@@ -1,0 +1,24 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+img {
+  margin: 10px auto;
+}
+
+p {
+  font-size: 15px;
+}
